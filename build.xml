@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="University_Management_System" default="default" basedir=".">
+    <description>Builds, tests, and runs the project University_Management_System.</description>
+    <import file="nbproject/build-impl.xml"/>
+    <!--
+
+
+</project>
